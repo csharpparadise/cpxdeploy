@@ -10,9 +10,6 @@ namespace WebApplication1.Controllers
     {
         public ActionResult Index()
         {
-
-            var dt = DateTime.Parse("13.08.2014  10:14:14");
-
             return View();
         }
 
